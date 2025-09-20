@@ -1,6 +1,5 @@
 # AyurvediCure 🌿🧑‍⚕️🤖
 
-![AyurvediCure](img/desktop.png)
 
 Welcome to **AyurvediCure**, your personalized AI-ML based Ayurvedic doctor. Our platform offers a seamless and secure experience to help you manage your health with the wisdom of Ayurveda, using the latest advancements in artificial intelligence and machine learning.
 
@@ -50,7 +49,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 
-For any inquiries or support, please contact us at krypto.etox@gmail.com.
+For any inquiries or support, please contact us at avinotfound404@gmail.com.
 
 ---
 
