@@ -29,7 +29,7 @@ To start using AyurvediCure, follow these steps:
 
 ## Project Link 🔗
 
-Explore the project here: [AyurvediCure](https://pkprajapati7402.github.io/AyurvediCure/)
+Explore the project here: [AyurvediCure](https://404avinotfound.github.io/Ayur/)
 
 ## Repository Stats 📊
 
